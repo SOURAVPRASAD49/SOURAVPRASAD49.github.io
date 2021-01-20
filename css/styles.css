@@ -1,0 +1,57 @@
+
+/* navbar */
+
+.nav-background{
+    background: linear-gradient(to left top,rgba(94, 43, 4, 0.6),rgba(124, 76, 37,.3));
+}
+
+
+.max-height{
+    max-height: 100vh;
+}
+
+#gallery{
+    margin-top: 20px;
+}
+
+.back{
+    background:linear-gradient(to left top, rgba(90, 60, 32, 0.7),rgba(90, 60, 32, 0.4));
+}
+
+.items{
+    min-height: max-content;
+    
+}
+
+.item{
+    padding: 7px;
+    margin: 15px 10px 0px 10px;
+    background: linear-gradient(to left top,rgba(223, 237, 240, 0.9),rgba(223, 237, 240, 0.3));
+    border-radius: 15px;
+}
+
+.item:last-child{
+    margin-bottom: 20px;
+}
+
+.item:hover{
+    cursor: pointer;
+    background: linear-gradient(to left top,rgba(161, 195, 204, 0.9),rgba(223, 237, 240, 0.3));
+}
+
+.link-text{
+    color: black;
+}
+
+.pad{
+    padding: 20px 8px 10px 8px;
+}
+
+.pad:last-child{
+    padding-bottom: 20px;
+}
+
+.card-img-top{
+    height: 12rem;
+    width: 4rem;
+}
